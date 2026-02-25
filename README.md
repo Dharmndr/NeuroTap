@@ -147,17 +147,13 @@ The game uses sound files stored in the sounds/ folder:
 
 - Clean UI design
 
-## 🔥 Future Improvements (Optional)
+## 🔥 Future Improvements
 
 - Add high score tracking
 
 - Add mobile touch support
 
 - Add difficulty levels
-
-- Convert to Vanilla JavaScript
-
-- Convert into React version
 
 ## 👨‍💻 Author
 

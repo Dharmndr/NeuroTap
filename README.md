@@ -3,7 +3,7 @@
 A fun and interactive color memory game built using HTML, CSS, JavaScript, and jQuery.
 
 The game challenges players to remember and repeat an increasingly long sequence of colors. Each level adds a new color to the sequence. Make a mistake, and the game ends!
-
+ 
 ---
 ## 🚀 Demo
 
@@ -111,7 +111,7 @@ The sequence keeps growing with each level.
 
 1. Download or clone the repository:
    ```javascript
-    git clone <your-repo-link>
+    git clone https://github.com/Dharmndr/NeuroTap.git
    ```
 2. Open the project folder.
 
